@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^/?Some-text-goes-here/([0-9]+)$ /editmem2.php?id=10002

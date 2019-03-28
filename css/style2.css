@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css?family=Athiti:500');
+/* Header */
+body{
+	font-family: 'Athiti', sans-serif;
+}
+textarea{
+	resize: none;
+}
+.rg-card {
+	width: auto;
+	height: auto;
+	background-color: #F7F7F7;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-radius: 3px;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+.wg-card {
+  text-align: center;
+  width: auto;
+  height: auto;
+  background-color: #f0cdcd;
+  margin-top: 10%;
+  margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+	padding-left: 10px;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.bg-card {
+  width: 1065px;
+  height: auto;
+  background-color: #F7F7F7;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.logo {
+	display: block;
+	width: 100%;
+	height: 80px;
+	border-style: solid;
+	border-width: 0px;
+	border-color: black;
+	padding-left: 20px;
+	padding-top: 30px;
+	margin: auto;
+}
+/* Main_menu */
+.main_menu {
+	width: 100%;
+	height: 30px;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+	border-top: none;
+	margin: auto;
+}
+.main_menu li {
+	display:inline;
+}
+/* Wrap */
+.wrap {
+	width: 100%;
+	height: 100%;
+	border-style: solid;
+	border-width: 0px;
+	border-color: black;
+	border-top: none;
+	margin: auto;
+}
+
+/* Sub_menu */
+.sub_menu {
+
+	width: auto;
+	height: 100%;
+	border-style: solid;
+	border-width: 0px;
+	border-color: black;
+	border-top: none;
+	border-left: none;
+	padding-top: 37px;
+	float: left;
+}
+
+.content1 {
+	background: url("../pic/housebg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: fixed;
+	width: 1168px;
+	height: 688px;
+	padding-top: 50px;
+	padding-left: 20px;
+	float: right;
+}
+/* Content */
+.content {
+	background-color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: fixed;
+	width: 100%;
+	height: 100%;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	float: right;
+}
+.content2 {
+	background: url("../pic/housebg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	width: 1119px;
+	height: auto;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	float: right;
+}
+/* footer */
+.footer {
+	width: 100%;
+	height: 30px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	border-top: none;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin: auto;
+}
+
